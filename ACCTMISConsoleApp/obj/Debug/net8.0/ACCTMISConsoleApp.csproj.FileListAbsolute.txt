@@ -1,0 +1,15 @@
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\bin\Debug\net8.0\ACCTMISConsoleApp.exe
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\bin\Debug\net8.0\ACCTMISConsoleApp.deps.json
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\bin\Debug\net8.0\ACCTMISConsoleApp.runtimeconfig.json
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\bin\Debug\net8.0\ACCTMISConsoleApp.dll
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\bin\Debug\net8.0\ACCTMISConsoleApp.pdb
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.AssemblyInfoInputs.cache
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.AssemblyInfo.cs
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.sourcelink.json
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.dll
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\refint\ACCTMISConsoleApp.dll
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.pdb
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ACCTMISConsoleApp.genruntimeconfig.cache
+C:\Users\martin.1537\Projects\School\acctmis-4630-dotnet\ACCTMISConsoleApp\obj\Debug\net8.0\ref\ACCTMISConsoleApp.dll
